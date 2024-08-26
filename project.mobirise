@@ -182,7 +182,7 @@
                 "showTitle": true,
                 "title": "Heeft u financiele nodig voor uw goede doel !",
                 "showText": true,
-                "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\">Door mensen te raken en open te zijn over het werk van uw stichting kunt u veel mensen meenemen in uw werk en ondersteuning vragen.</span><br>",
+                "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\"><i>Door mensen te raken en open te zijn over het werk van uw stichting kunt u veel mensen meenemen in uw werk en ondersteuning vragen.</i></span><br>",
                 "showButtons": true,
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"tel:+31646236355\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Neem gerust Contact met mij op</a> "
               }
