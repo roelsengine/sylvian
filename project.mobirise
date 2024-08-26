@@ -308,7 +308,9 @@
             },
             ".lead BLOCKQUOTE": {
               "color": "#ffffff",
-              "font-size": "24px"
+              "font-size": "20px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_tags": [
@@ -608,6 +610,9 @@
             "SMALL": {
               "color": "#fac51c",
               "font-size": "24px"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "23px"
             }
           },
           "_tags": [

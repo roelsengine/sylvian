@@ -10,6 +10,7 @@
 
 
 
+
 .subtitleFont {
   font-family: 'Lora', serif;
   font-style: normal;
@@ -588,7 +589,8 @@ section.form .container {
 }
 #msg-box3-8 .lead BLOCKQUOTE {
   color: #ffffff;
-  font-size: 24px;
+  font-size: 20px;
+  font-family: 'Lora', serif;
 }
 #msg-box3-i .mbr-section-title,
 #msg-box3-i p {
@@ -657,6 +659,9 @@ section.form .container {
 #header3-l SMALL {
   color: #fac51c;
   font-size: 24px;
+}
+#header3-l .mbr-section-subtitle {
+  font-size: 23px;
 }
 #contacts1-k STRONG {
   font-size: 20px;
