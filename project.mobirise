@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 33,
+    "uniqCompNum": 34,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -308,7 +308,7 @@
           "_anchor": "buttons1-u",
           "_styles": {
             ".btn": {
-              "font-size": "14px"
+              "font-size": "10px"
             }
           }
         },
@@ -379,7 +379,7 @@
           "_name": "buttons1",
           "_styles": {
             ".btn": {
-              "font-size": "14px"
+              "font-size": "10px"
             }
           },
           "_anchor": "buttons1-v",
@@ -478,7 +478,7 @@
               "font-size": "20px"
             },
             ".btn": {
-              "font-size": "16px"
+              "font-size": "10px"
             }
           },
           "_anchor": "features3-n",
@@ -551,7 +551,7 @@
           "title3": "Goede doel",
           "subtitle3": "Afrika, Tanzania",
           "caption3": "Realiseren van een synagoge en ondersteunen van de joodse gemeenschap in Tanzania.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Neem contact op</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Neem contact op</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -686,7 +686,7 @@
           "_name": "buttons1",
           "_styles": {
             ".btn": {
-              "font-size": "14px"
+              "font-size": "10px"
             }
           },
           "_anchor": "buttons1-w",
