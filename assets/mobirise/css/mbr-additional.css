@@ -532,7 +532,7 @@ section.form .container {
 }
 #slider-0 H2 {
   text-align: center;
-  font-size: 46px;
+  font-size: 30px;
 }
 #slider-0 P {
   text-align: center;
@@ -572,6 +572,9 @@ section.form .container {
 #msg-box8-3 .mbr-section-title {
   font-size: 46px;
 }
+#buttons1-u .btn {
+  font-size: 25px;
+}
 #msg-box3-8 .mbr-section-title,
 #msg-box3-8 p {
   color: #000;
@@ -591,6 +594,9 @@ section.form .container {
   color: #ffffff;
   font-size: 20px;
   font-family: 'Lora', serif;
+}
+#buttons1-v .btn {
+  font-size: 25px;
 }
 #msg-box3-i .mbr-section-title,
 #msg-box3-i p {
@@ -662,6 +668,9 @@ section.form .container {
 }
 #header3-l .mbr-section-subtitle {
   font-size: 23px;
+}
+#buttons1-w .btn {
+  font-size: 25px;
 }
 #contacts1-k STRONG {
   font-size: 20px;

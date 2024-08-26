@@ -19,10 +19,11 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 30,
+    "uniqCompNum": 33,
     "versionPublish": "5.9.18",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -138,7 +139,7 @@
           "_styles": {
             "H2": {
               "text-align": "center",
-              "font-size": "46px"
+              "font-size": "30px"
             },
             "P": {
               "text-align": "center",
@@ -167,9 +168,9 @@
                 "showTitle": true,
                 "title": "Fondswerven",
                 "showText": true,
-                "text": "Als ervaren fondsenwerver werk ik samen met diverse Nederlandse en internationale stichtingen die zich inzetten om de wereld een beetje mooier te maken.",
+                "text": "<i>Als ervaren fondsenwerver werk ik samen met diverse Nederlandse en internationale stichtingen die zich inzetten om de wereld een beetje mooier te maken.</i>",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Neem gerust contact op</a> "
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Neem gerust contact op</a> "
               },
               {
                 "active": false,
@@ -179,11 +180,11 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Samen kunnen we een verschil maken!",
+                "title": "Heeft u hulp nodig voor uw goede doel !",
                 "showText": true,
                 "text": "<span style=\"font-size: 1.5rem; line-height: 1.5;\">Door mensen te raken en open te zijn over het werk van uw stichting kunt u veel mensen meenemen in uw werk en ondersteuning vragen.</span><br>",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Neem gerust Contact</a> "
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"tel:+31646236355\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Neem gerust Contact met mij op</a> "
               }
             ]
           },
@@ -289,6 +290,25 @@
           "_sourceTheme": "mobirise3"
         },
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"tel:+31646236355\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Neem gerust contact met mij op</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:+31646236355\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Of stuur mij een mailtje</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "buttons1-u",
+          "_styles": {
+            ".btn": {
+              "font-size": "25px"
+            }
+          }
+        },
+        {
           "_inherit": "msg-box8",
           "_styles": {
             ".mbr-section-title, p": {
@@ -338,8 +358,27 @@
             "overlayOpacity": 0.5
           },
           "title": "Wie ik ben",
-          "text": "<p>Mijn naam is Sylvian Nijhuis, <b>als ervaren fondsenwerver werk ik samen met diverse Nederlandse en buitenlandse stichtingen </b>die zich inzetten om de wereld een beetje mooier te maken.</p><p><br></p><blockquote><b>Door mijn opgedane ervaring en een uitgebreid netwerk, mobiliseer ik effectief steun voor belangrijke initiatieven</b>. Voornamelijk richt ik mij op stichtingen die hulp bieden aan mens en dier in kwetsbare achterstandsituaties.</blockquote><p><br></p><p><b>Samen brengen we een positieve verandering teweeg in het leven van velen</b><i>.</i><span style=\"line-height: 1.5;\">Mijn passie voor het ondersteunen van goede doelen en mijn toewijding aan het creëren van een betere toekomst voor iedereen vormen de kern van mijn werk.</span></p>",
+          "text": "<p>Mijn naam is Sylvian Nijhuis, <b>als ervaren fondsenwerver werk ik samen met diverse Nederlandse en buitenlandse stichtingen </b>die zich inzetten om de wereld een beetje mooier te maken.</p><p><br></p><blockquote><i><b style=\"\">Door mijn opgedane ervaring en een uitgebreid netwerk, mobiliseer ik effectief steun voor belangrijke initiatieven</b>. Voornamelijk richt ik mij op stichtingen die hulp bieden aan mens en dier in kwetsbare achterstandsituaties.</i></blockquote><p><br></p><p><b>Samen brengen we een positieve verandering teweeg in het leven van velen</b><i>.</i><span style=\"line-height: 1.5;\">Mijn passie voor het ondersteunen van goede doelen en mijn toewijding aan het creëren van een betere toekomst voor iedereen vormen de kern van mijn werk.</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"tel:+31646236355\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Neem gerust contact met mij op</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:+31646236355\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Of stuur mij een mailtje</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "buttons1-v",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -628,6 +667,25 @@
           },
           "title": "Samen kunnen we een verschil maken!",
           "meta": "Door mensen te raken en open te zijn over het werk van uw stichting kunt u veel mensen meenemen in uw werk en ondersteuning vragen.",
+          "_sourceTheme": "mobirise3"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"tel:+31646236355\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn\"></span>Neem gerust contact met mij op</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tel:+31646236355\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>Of stuur mij een mailtje</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "25px"
+            }
+          },
+          "_anchor": "buttons1-w",
           "_sourceTheme": "mobirise3"
         },
         {
